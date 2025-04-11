@@ -24,7 +24,7 @@ When doing styling, we don't have a css file which points at the tags' classes o
     color: 'red',
   },
 });`
-### In this case if we want to apply the styles we have to use the `style` prop in our component like so:
+- In this case if we want to apply the styles we have to use the `style` prop in our component like so:
 `<Text style={styles.text}>Hello World!</Text>`
 Our variable styles is treated like an object and each key/value pair represents a style that we can apply through it.
 ### For more detailed information on the various styling that can be applied to each component read here:
