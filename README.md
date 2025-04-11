@@ -17,8 +17,7 @@ https://developer.android.com/studio
 Android Studio - emulation of Android environment for testing.
 ctrl+n (or m) for developer options
 
-Important distinctions between react-native and regular react components:
-
+Important distinctions between react-native and regular react components:\n
 When doing styling, we don't have a css file which points at the tags' classes or ids, instead we have a prop called `style` which then needs to refer to a utility object called `StyleSheet`.
 Example:
 `const styles = StyleSheet.create({
