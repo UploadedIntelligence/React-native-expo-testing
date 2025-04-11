@@ -1,8 +1,8 @@
 ### This repo is the result of following the steps, but you have to run `npm install` to get everything if you want to just work from this repo, otherwise follow the next steps if you want to generate your own environment.
 
-extensions(optional for VScode):
-React Native Tools(by Microsoft) - debug reactive native apps in VScode
-React-Native/React/Redux(by EQuimper) - helps with code generation
+- extensions(optional for VScode):
+- React Native Tools(by Microsoft) - debug reactive native apps in VScode
+- React-Native/React/Redux(by EQuimper) - helps with code generation
 
 ### Mandatory steps for initialization of a new expo/react-native environment:
 - npx create-expo-app NameOfApp(or test) --template - create expo project, choose Blank(TypeScript) for our current project
